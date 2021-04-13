@@ -12,22 +12,25 @@
 https://github.com/ConardLi/ConardLi.github.io
 ```
 
-- 正规军(由老乡Dennis提供，在此感谢！)
+- 正规军(由老乡Dennis提供，在此感谢！链接有本人收集)
   1. 蚂蚁体验科技
   2. 淘系前端
   3. 阿里妈妈MUX
   4. 闲鱼技术
-  5. 腾讯Alloy Team
+  5. [腾讯Alloy Team](http://www.alloyteam.com/)
   6. 腾讯TGideas
-  7. 腾讯ISUX
+  7. [腾讯ISUX](https://isux.tencent.com/)
   8. 腾讯IMWeb团队
   9. 腾讯IVWEB团队
   10. 百度FEX
-  11. 百度EFE
-  12. 百度EUX
-  13. 奇舞团
-  14. 京东凹凸实验室
+  11. [百度EFE](https://efe.baidu.com/)
+  12. [百度EUX](http://eux.baidu.com/)
+  13. [奇舞团](https://75.team/)
+  14. [京东凹凸实验室](https://aotu.io/)
   15. 京东JDC
   16. 美团技术博客
   17. 滴滴云博客
   18. 政采云前端
+  19. [携程 UED ](http://ued.ctrip.com/blog/?cat=11)
+  20. [w3tech](https://www.w3ctech.com/)
+
